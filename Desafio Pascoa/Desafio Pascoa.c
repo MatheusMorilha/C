@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-
+//O objetivo desse programa é calulcar e informar o dia e o mes que será Páscoa em determinado ano digitado pelo usuário.
 int main () {
     int anodesejado, numeroaureo, calculoseculo, correcoesx, correcoesz, epacta, luacheia, domingo, mes, dia;
 
