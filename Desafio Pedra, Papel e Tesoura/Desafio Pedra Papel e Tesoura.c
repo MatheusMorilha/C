@@ -1,3 +1,5 @@
+//Criar um jogo de PEDRA, PAPEL E TESOURA utilizando a lógica de programação em C
+
 #include<stdio.h>
 #include<stdlib.h>
 #include <time.h>
