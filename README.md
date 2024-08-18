@@ -1,1 +1,1 @@
-Listas de exercícios Linguagem C
+Repositório para armazenar atividades relacionadas a Linguagem C
